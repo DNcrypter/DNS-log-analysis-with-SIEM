@@ -1,5 +1,5 @@
 # DNS Log Analysis Using Splunk SIEM
-In this project, I have discussed about DNS log analysis on splunk using SPL queries. 
+In this project, I have discussed about DNS log analysis on splunk SIEM tool with help of SPL queries by using searching & reporting feature. 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
